@@ -1,10 +1,14 @@
 # Walk This Way
 
+<span align="left">
+
+<a href="https://img.shields.io/badge/License-MIT-brightgreen?style=plastic"><img alt="M.I.T. License use" src="https://img.shields.io/badge/License-MIT-brightgreen?style=plastic"/></a>
+
+ </span>
+ 
 ## Description
 
-This is the fourteenth assigment from the UConn Coding Boot Camp curriculum. We have covered the following topics thus far: Git, Terminal, GitHub, GitHub Pages, Web Accessibility, HTML, CSS, JavaScript, jQuery, Bootstrap, DOM Traversal, Web APIs, Third-Party APIs, Server-Side APIs, Node.js, Inquirer.js, and Express.js.
-
-Within the last two weeks the following topics have been introduced: MySQL database management system (DBMS) - the most popular Structured Query Language (SQL) relational database, MySQL Shell, Model-View-Controller (MVC) design pattern framework, Handlebars.js template engine, Object Relational-Mapping (ORM) to create resuable methods for querying our database.
+A detailed tutorial that explains every file and its purpose of the [starter code](#starter-code). The starter code includes MySQL database management system (DBMS) - the most popular Structured Query Language (SQL) relational database, MySQL Shell, Model-View-Controller (MVC) design pattern framework, Handlebars.js template engine, Object Relational-Mapping (ORM) to create resuable methods for querying our database.
 
 View the tutorial [here](https://docs.google.com/document/d/10Jxgv8h8c__baKuJjWcf0DKAJv9Q0WI0B08-tB-BrUU/edit?usp=sharing)
 
@@ -19,6 +23,7 @@ View the tutorial [here](https://docs.google.com/document/d/10Jxgv8h8c__baKuJjWc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Contact](#contact)
 - [License](#license)
 
 ## Goals
@@ -121,6 +126,10 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 ## Credits
 
 Reference articles: see footnotes in GoogleDoc.
+
+## Contact
+
+[Dana Smooke]("https://github.com/dsmooke")
 
 ## License
 
